@@ -8,3 +8,6 @@ target/
 
 # Concourse
 credentials.yml
+
+# OSX
+.DS_Store
